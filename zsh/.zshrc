@@ -140,7 +140,7 @@ export PATH="$PATH:$GEM_HOME/bin"
 
 # Custom aliases
 alias cls='clear'
-
+alias c='clear'
 
 # For zoxide
 eval "$(zoxide init zsh --cmd cd)"
