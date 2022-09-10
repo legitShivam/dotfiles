@@ -1,4 +1,4 @@
-#+TITLE: DT's Dotfiles
+# Shivam's Dotfiles
 
 * Table of Contents :toc:
 - [[#what-are-dotfiles][What Are Dotfiles?]]
