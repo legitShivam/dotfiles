@@ -143,7 +143,7 @@ alias cls='clear'
 
 
 # For zoxide
-eval "$(zoxide init zsh --cmd c)"
+eval "$(zoxide init zsh --cmd cd)"
 
 # windows application aliases
 alias files="explorer.exe ."
