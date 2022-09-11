@@ -183,3 +183,9 @@ function conda_auto_env() {
 
 export PROMPT_COMMAND="conda_auto_env;$PROMPT_COMMAND"
 alias autoenv="conda_auto_env"
+source ~/powerlevel10k/powerlevel10k.zsh-theme
+source ~/powerlevel10k/powerlevel10k.zsh-theme
+
+
+# batman configs
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
