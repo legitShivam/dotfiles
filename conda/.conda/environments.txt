@@ -1,6 +1,0 @@
-/home/itachi/miniconda3
-/home/itachi/miniconda3/envs/python-3.9
-/home/itachi/miniconda3/envs/python-3.10
-/home/itachi/miniconda3/envs/python-3.8
-/home/itachi/miniconda3/envs/ntcc-chatbot
-/home/itachi/miniconda3/envs/telegram-downloader
