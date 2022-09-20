@@ -189,3 +189,5 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # batman configs
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
