@@ -151,7 +151,9 @@ alias files="explorer.exe ."
 alias winget="winget.exe"
 alias choco="choco.exe"
 alias cmd="cmd.exe"
-alias powershell="powershell.exe "
+alias powershell="powershell.exe" 
+alias wsl="wsl.exe"
+
 
 
 
