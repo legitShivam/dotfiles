@@ -148,9 +148,10 @@ eval "$(zoxide init zsh --cmd cd)"
 
 # windows application aliases
 alias files="explorer.exe ."
-function choco() {
-	choco.exe $@
-}
+alias winget="winget.exe"
+alias choco="choco.exe"
+alias cmd="cmd.exe"
+alias powershell="powershell.exe "
 
 
 
@@ -192,3 +193,5 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
 
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+
+
