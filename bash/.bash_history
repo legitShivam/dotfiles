@@ -107,3 +107,9 @@ cd 03-application-setup/01-zsh-setup/
 clear
 ls
 ./01-zsh-setup.sh 
+cd "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/" && gcc linked-list-operations.c -o linked-list-operations && "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/"linked-list-operations
+clear
+zsh
+cd "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/" && gcc linked-list-operations.c -o linked-list-operations && "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/"linked-list-operations
+gcc linked-list-operations.c -o out && out
+zsh
