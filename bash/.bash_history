@@ -113,3 +113,43 @@ zsh
 cd "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/" && gcc linked-list-operations.c -o linked-list-operations && "/mnt/d/Root/Documents/Amity/Sem/3/Subjects/Data Structure Using C CSIT124/lab/linked-list/"linked-list-operations
 gcc linked-list-operations.c -o out && out
 zsh
+ls
+cd 01-config/
+ls
+./02-package-manager-configurations.sh 
+nala
+apt-fast
+clear
+cd ..
+clear
+ls
+cd 02-application-installer/
+clear
+ls
+~
+clear
+cd 
+clear
+sudo apt-fast install xclip ranger curl wget git zsh htop neofetch micro bat lolcat peco build-essential gdb nodejs npm exa resolvconf gdebi fzf
+sudo aptt install xclip ranger curl wget git zsh htop neofetch micro bat lolcat peco build-essential gdb nodejs npm exa resolvconf gdebi fzf
+sudo apt install xclip ranger curl wget git zsh htop neofetch micro bat lolcat peco build-essential gdb nodejs npm exa resolvconf gdebi fzf
+neofetch
+clear
+sudo npm install -g tldr
+tldr
+clear
+ls
+ls
+cd 03-application-setup/01-zsh-setup/
+sl
+ls
+./01-zsh-setup.sh 
+clear
+curl https://sh.rustup.rs -sSf | sh
+cargo
+source "$HOME/.cargo/env"
+cargo
+clear
+cargo install zoxide
+clear
+zsh
