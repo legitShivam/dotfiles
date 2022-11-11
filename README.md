@@ -1,6 +1,6 @@
 
 # Dotfiles
-[![Issues](https://img.shields.io/github/issues/legitshivam/mavick)](issues)
+[![Issues](https://img.shields.io/github/issues/legitshivam/dotfiles)](issues)
 
 [![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=green)](https://www.gnu.org/software/bash/ )
 [![Shell Script](https://img.shields.io/badge/zsh-%23121011.svg?style=flat&logo=gnu-bash&logoColor=pink)](https://www.zsh.org/)
